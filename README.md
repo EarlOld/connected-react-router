@@ -2,9 +2,10 @@
 
 > v6.0.0 requires React v16.4.0 and React Redux v6.0 / v7.0.
 
-Connected React Router [![Build Status](https://travis-ci.org/supasate/connected-react-router.svg?branch=master)](https://travis-ci.org/supasate/connected-react-router) [![Open Source Helpers](https://www.codetriage.com/supasate/connected-react-router/badges/users.svg)](https://www.codetriage.com/supasate/connected-react-router)
+Connected React Router Next
 ======================
 A Redux binding for React Router v4 and v5
+Added support 18 react and 8 redux
 
 Main features
 -------------
