@@ -84,9 +84,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supasate/connected-react-router.git"
+    "url": "https://github.com/EarlOld/connected-react-router.git"
   },
   "bugs": {
-    "url": "https://github.com/supasate/connected-react-router/issues"
+    "url": "https://github.com/EarlOld/connected-react-router/issues"
   }
 }
